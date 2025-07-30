@@ -16,7 +16,17 @@
     "GL_ARRAY_BUFFER",
     "GL_TRIANGLES",
     "GL_ARRAY_BUFFER",
-    "GL_TEXTURE_2D"
+    "GL_TEXTURE_2D",
+    "GL_ONE_MINUS_SRC_ALPHA",
+    "GL_TEXTURE_WRAP_S",
+    "GL_CLAMP_TO_EDGE",
+    "GL_TEXTURE_WRAP_T",
+    "GL_CLAMP_TO_EDGE",
+    "GL_TEXTURE_MAG_FILTER",
+    "GL_LINEAR",
+    "GL_TEXTURE_MIN_FILTER",
+    "GL_LINEAR",
+    "GL_RGBA"
   ],
   "Functions": [
     "glClearColor",
