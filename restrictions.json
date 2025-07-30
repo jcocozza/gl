@@ -26,7 +26,10 @@
     "GL_LINEAR",
     "GL_TEXTURE_MIN_FILTER",
     "GL_LINEAR",
-    "GL_RGBA"
+    "GL_RGBA",
+    "GL_UNSIGNED_BYTE",
+    "GL_STATIC_DRAW",
+    "GL_FLOAT"
   ],
   "Functions": [
     "glClearColor",

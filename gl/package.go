@@ -226,6 +226,7 @@ const (
 	COMPILE_STATUS      = 0x8B81
 	DEPTH_BUFFER_BIT    = 0x00000100
 	FALSE               = 0
+	FLOAT               = 0x1406
 	FRAGMENT_SHADER     = 0x8B30
 	INFO_LOG_LENGTH     = 0x8B84
 	LINEAR              = 0x2601
@@ -233,6 +234,7 @@ const (
 	ONE_MINUS_SRC_ALPHA = 0x0303
 	RGBA                = 0x1908
 	SRC_ALPHA           = 0x0302
+	STATIC_DRAW         = 0x88E4
 	TEXTURE0            = 0x84C0
 	TEXTURE_2D          = 0x0DE1
 	TEXTURE_MAG_FILTER  = 0x2800
@@ -240,6 +242,7 @@ const (
 	TEXTURE_WRAP_S      = 0x2802
 	TEXTURE_WRAP_T      = 0x2803
 	TRIANGLES           = 0x0004
+	UNSIGNED_BYTE       = 0x1401
 	VERTEX_SHADER       = 0x8B31
 )
 
