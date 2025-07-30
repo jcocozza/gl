@@ -4,7 +4,10 @@
     "GL_FRAGMENT_SHADER",
     "GL_FALSE",
     "GL_COLOR_BUFFER_BIT",
-    "GL_DEPTH_BUFFER_BIT"
+    "GL_DEPTH_BUFFER_BIT",
+    "LINK_STATUS",
+    "COMPILE_STATUS",
+    "INFO_LOG_LENGTH"
   ],
   "Functions": [
     "glClearColor",
